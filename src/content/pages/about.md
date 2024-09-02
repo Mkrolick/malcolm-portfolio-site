@@ -18,9 +18,13 @@ seo:
 
 I mostly work in software land; building out products to help empower people. But, I'm trying to break more into hardware. I've worn a lot of hats from building out projects, working on research, running decoding at JHU Brain Computer Interface Society, working at MIT LL teaching cyber operations, or working on YouTube's Ecommerce Ops Team.
 
-## Interest
+## Tech Interests
 
 Some of my interests (in no specific order) are general frontier tech, brain computer interfaces cyber operation influence operations, pricing optimization, brain organoids, LLMs for behavioral modeling and lithotripsy for longevity applications.
+
+## Interests
+
+Outside of building or mulling on a problem, you can find me reading classics, general philosphy, or I-novels. I'm a big fan of really high bpm music or classics (add link to spotify) so if you have recs send me a message.
 
 ## Innovation and Problem-Solving
 
@@ -28,7 +32,7 @@ I want to build cool stuff, simply for the sake that in one life there's a fixed
 
 ## Continuous Learning
 
-Technology pushes the frontier of knowledge. It's vital to stay on top of tech because it expands the horizons for what can be seen and built.
+Technology pushes the frontier of knowledge. It's vital to stay on top of tech because it expands the horizons for what can be seen and built. On project, I'm working on involves breaking down the barriers of accessing reasearch to the average student (hmu, if interested).
 
 ## Get in Touch
 
