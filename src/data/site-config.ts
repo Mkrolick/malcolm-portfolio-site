@@ -81,16 +81,8 @@ const siteConfig: SiteConfig = {
     ],
     socialLinks: [
         {
-            text: 'Dribbble',
-            href: 'https://dribbble.com/'
-        },
-        {
-            text: 'Instagram',
-            href: 'https://instagram.com/'
-        },
-        {
             text: 'X/Twitter',
-            href: 'https://twitter.com/'
+            href: 'https://x.com/Therealfakegod1'
         }
     ],
     hero: {
