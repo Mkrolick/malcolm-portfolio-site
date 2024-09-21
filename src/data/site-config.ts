@@ -99,7 +99,7 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         //title: 'Goo.',
-        text: "I'm **Malcolm**, a student at JHU. Currently, I do brain-machine decoding things at JHUBCIS, organize HopHacks, and am building some stuff with the ignite team. Previously, I was an intern at Google, a teaching assistant at MIT's Lincoln Lab, and builder of highschool startups. Feel free to browse this site or follow me on <a href='https://twitter.com/Therealfakegod1'>Twitter/X</a>.", image: {
+        text: "I'm **Mal**, a student at JHU. Currently, I do brain-machine decoding things at JHUBCIS, organize HopHacks, and am building some stuff with the ignite team. Previously, I was an intern at Google, a teaching assistant at MIT's Lincoln Lab, and builder of highschool startups. Feel free to browse this site or follow me on <a href='https://twitter.com/Therealfakegod1'>Twitter/X</a>.", image: {
             //src: '/hero.jpeg',
             //alt: 'A person sitting at a desk in front of a computer'
         },
