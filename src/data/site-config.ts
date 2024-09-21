@@ -38,7 +38,7 @@ export type SiteConfig = {
 };
 
 const siteConfig: SiteConfig = {
-    title: 'Malcolm\'s Blog',
+    title: 'Bog (a new kind of blog)',
     subtitle: 'Ideas so cool--they prove you\'re not in a simulation',
     description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
     /*
