@@ -98,7 +98,7 @@ const siteConfig: SiteConfig = {
         }
     ],
     hero: {
-        title: 'Good morning, afternoon, evening, or night. Hope you\'re well and welcome.',
+        //title: 'Goo.',
         text: "I'm **Malcolm**, a student at JHU. Currently, I'm a brain machine decoding lead for brain computer interface society at JHU, organize HopHacks (JHU's hackathon), building some stuff with the ignite team and learning to live with trigeminal neuralgia. Previously, I was a software intern at YouTube, a teaching assistant at MIT's Lincoln Lab, and builder of highschool startups. Feel free to browse this site or follow me on twitter <a href='https://twitter.com/mkrolick'>Twitter/X</a>.", image: {
             //src: '/hero.jpeg',
             //alt: 'A person sitting at a desk in front of a computer'
