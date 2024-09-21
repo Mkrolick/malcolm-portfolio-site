@@ -39,7 +39,7 @@ export type SiteConfig = {
 
 const siteConfig: SiteConfig = {
     title: 'Malcolm\'s Blog',
-    subtitle: 'Home of contrasting idea',
+    subtitle: 'Ideas so cool--they prove you\'re not in a simulation',
     description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
     /*
     image: {
