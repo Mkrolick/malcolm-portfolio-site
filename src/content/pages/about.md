@@ -8,7 +8,7 @@ seo:
     alt: A person sitting at a desk in front of a computer
 ---
 
-![Alt text for image](/stop_nice_try.webp)
+![Alt text for image](/Map.png)
 
 ## Mal - Lifelong learner, based on the web
 
