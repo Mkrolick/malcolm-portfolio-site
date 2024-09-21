@@ -10,9 +10,9 @@ seo:
 
 ![Alt text for image](/stop_nice_try.webp)
 
-## Malcolm Krolick - Lifelong learner, based on the web
+## Mal - Lifelong learner, based on the web
 
-**Hey!** I'm Malcolm. I want to build beautiful things. 
+**Hey!** I'm Mal. I want to build beautiful things. 
 
 ## Skills and Expertise
 
