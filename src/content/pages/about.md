@@ -20,11 +20,11 @@ I mostly work in software land; building out products to help empower people. Bu
 
 ## Tech Interests
 
-Some of my interests (in no specific order) are general frontier tech, brain computer interfaces cyber operation influence operations, pricing optimization, brain organoids, LLMs for behavioral modeling and lithotripsy for longevity applications.
+Some of my interests (in no specific order) are general frontier tech, brain computer interfaces cyber operation influence operations, pricing optimization, brain organoids, LLMs for behavioral modeling and longevity.
 
 ## Interests
 
-Outside of building or mulling on a problem, you can find me reading classics, general philosphy, or I-novels. I'm a big fan of really high bpm music or classics (add link to spotify) so if you have recs send me a message.
+Outside of building or mulling on a problem, you can find me reading classics, general philosphy, or I-novels. I'm a big fan of really high bpm music or classics so if you have recs send me a message.
 
 ## Innovation and Problem-Solving
 
