@@ -96,9 +96,8 @@ const siteConfig: SiteConfig = {
         }
     ],
     hero: {
-        title: 'Hi There & Welcome to My Corner of the Web!',
-        text: "I'm **Ethan Donovan**, a web developer at Amazing Studio, dedicated to the realms of collaboration and artificial intelligence. My approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products. I have a profound appreciation for top-notch software, visual design, and the principles of product-led growth. Feel free to explore some of my coding endeavors on <a href='https://github.com/JustGoodUI/dante-astro-theme'>GitHub</a> or follow me on <a href='https://twitter.com/justgoodui'>Twitter/X</a>.",
-        image: {
+        title: 'Thanks for stopping by',
+        text: "I'm Malcolm, someone who likes novel ideas and hacking to make them real. Currently, I'm a brain machine decoding lead for brain computer interface society at JHU, organize HopHacks (JHU's hackathon), building some stuff with the ignite team and learning to live with trigeminal neuralgia.Previously, I was a SWE(STEP) intern Google on a YouTube team, a teaching assistant at MIT's Lincoln Lab for cyber operations, and a founder of Social Saber in highschool. Feel free to browse some parts of my life on this site or follow me on twitter <a href='https://twitter.com/mkrolick'>Twitter/X</a>.", image: {
             src: '/hero.jpeg',
             alt: 'A person sitting at a desk in front of a computer'
         },
